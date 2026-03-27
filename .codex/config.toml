@@ -1,0 +1,10 @@
+## Project-level Codex configuration
+## Docs: https://developers.openai.com/codex/config-reference
+
+[agents]
+max_threads = 6
+max_depth   = 1
+
+[agents.scribe]
+description = "Lightweight agent for saving session prompts, plans, and learnings. Uses gpt-5.4-mini."
+config_file = "./agents/scribe.toml"

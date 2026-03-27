@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "Date": "Fri, 27 Mar 2026 00:18:05 GMT",
+    "Content-Type": "application/json",
+    "Content-Length": "233",
+    "Connection": "close",
+    "x-fal-billable-units": "1.0",
+    "X-Fal-Served-From": "5e181190-8b45-4e9e-915b-f79cf53d636c",
+    "x-fal-request-id": "019d2ca7-1788-7573-a793-3f2b8158f27a",
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+    "X-Robots-Tag": "noindex"
+  }
+}

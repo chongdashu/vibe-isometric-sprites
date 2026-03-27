@@ -1,0 +1,9 @@
+__pycache__
+.env
+.DS_Store
+node_modules
+dist
+.vite
+tmp/
+.uv-cache/
+.playwright/
